@@ -171,3 +171,9 @@
     font-weight: 700;
     text-align: center;
 }
+
+.logos-in-forest {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
