@@ -12,9 +12,13 @@
 .nav-bar-top {
     background-image: url("../images/nav-top-bg.png");
     height: 100vh;
-    background-repeat: no-repeat;
     background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
     background-size: cover;
+    /*background-repeat: no-repeat;*/
+    /*background-attachment: fixed;*/
+    /*background-size: cover;*/
 }
 
 .sertiz-title {
@@ -111,9 +115,10 @@
 .speedometr-img {
     background-image: url("../images/speed-bg.png");
     height: 400px;
-    background-repeat: no-repeat;
     background-attachment: fixed;
-    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;;
 }
 
 .we-change-title {
@@ -157,8 +162,9 @@
 .forest-img {
     background-image: url("../images/forest-bg.png");
     height: 550px;
-    background-repeat: no-repeat;
     background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
     background-size: cover;
 }
 
@@ -204,9 +210,10 @@
 .lake-img {
     background-image: url("../images/lake-bg-img.png");
     height: 475px;
-    background-repeat: no-repeat;
     background-attachment: fixed;
-    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;;
 }
 
 .check-what-title {
