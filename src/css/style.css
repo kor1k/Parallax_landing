@@ -1,6 +1,7 @@
 * {
     text-decoration: none;
     list-style: none;
+    font-family: 'Ubuntu', sans-serif;
 }
 
 .container1 {
@@ -19,7 +20,7 @@
 .sertiz-title {
     padding-top: 530px;
     padding-left: 90px;
-    font-family: Montserrat, sans-serif;
+    /*font-family: Montserrat, sans-serif;*/
     color: #ffffff;
     font-size: 48px; /* Приближение из-за подстановки шрифтов */
     font-weight: 700;
@@ -28,7 +29,7 @@
 
 .sertiz-under-title {
     padding-left: 90px;
-    font-family: Lato, sans-serif;
+    /*font-family: Lato, sans-serif;*/
     color: #ffffff;
     font-size: 18px; /* Приближение из-за подстановки шрифтов */
     font-weight: 400;
@@ -36,6 +37,7 @@
 }
 
 .we-block-all-items {
+    padding-top: 28px;
     display: flex;
     justify-content: flex-start;
     align-items: center;
@@ -47,7 +49,7 @@
     background-color: white;
     width: 152px;
     height: 129px;
-    font-family: Montserrat, sans-serif;
+    /*font-family: Montserrat, sans-serif;*/
     display: flex;
     justify-content: center;
     align-items: center;
@@ -65,11 +67,10 @@
     border-style: solid;
     border-width: 1px;
     border-color: #ffffff;
-    background-color: rgba(0, 0, 0, 0.3);
+    background-color: rgba(0, 0, 0, 0.4);
     width: 831px;
     height: 129px;
-
-    font-family: Montserrat, sans-serif;
+    /*font-family: Montserrat, sans-serif;*/
     color: #ffffff;
     font-size: 54px; /* Приближение из-за подстановки шрифтов */
     font-weight: 700;
@@ -78,7 +79,7 @@
 
 .what-they-said {
     padding-top: 111px;
-    font-family: Montserrat, sans-serif;
+    /*font-family: Montserrat, sans-serif;*/
     color: #333333;
     font-size: 22px; /* Приближение из-за подстановки шрифтов */
     font-weight: 700;
@@ -91,7 +92,7 @@
     /*display: flex;*/
     /*justify-content: center;*/
     /*align-items: center;*/
-    font-family: Lato;
+    /*font-family: Lato, sans-serif;*/
     color: #4d4943;
     font-size: 17px; /* Приближение из-за подстановки шрифтов */
     font-weight: 400;
@@ -101,7 +102,7 @@
 
 .palka-ebalka {
     margin-top: 52px;
-    margin-bottom: 137px;
+    margin-bottom: 100px;
     background-color: #f1ad1d;
     width: 60px;
     height: 3px;
@@ -120,7 +121,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    font-family: Montserrat, sans-serif;
+    /*font-family: Montserrat, sans-serif;*/
     color: #ffffff;
     font-size: 22px; /* Приближение из-за подстановки шрифтов */
     font-weight: 700;
@@ -133,7 +134,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    font-family: Montserrat, sans-serif;
+    /*font-family: Montserrat, sans-serif;*/
     color: #333333;
     font-size: 22px; /* Приближение из-за подстановки шрифтов */
     font-weight: 700;
@@ -145,7 +146,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    font-family: Lato, sans-serif;
+    /*font-family: Lato, sans-serif;*/
     color: #4d4943;
     font-size: 17px; /* Приближение из-за подстановки шрифтов */
     font-weight: 400;
@@ -155,7 +156,7 @@
 
 .forest-img {
     background-image: url("../images/forest-bg.png");
-    height: 475px;
+    height: 550px;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
@@ -166,7 +167,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    font-family: Montserrat, sans-serif;
+    /*font-family: Montserrat, sans-serif;*/
     color: #ffffff;
     font-size: 22px; /* Приближение из-за подстановки шрифтов */
     font-weight: 700;
@@ -177,11 +178,12 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
+    padding-bottom: 100px;
 }
 
 .they-trust {
     padding-top: 157px;
-    font-family: Montserrat, sans-serif;
+    /*font-family: Montserrat, sans-serif;*/
     color: #333333;
     font-size: 22px; /* Приближение из-за подстановки шрифтов */
     font-weight: 700;
@@ -191,7 +193,7 @@
 
 .under-they-trust {
     padding-top: 35px;
-    font-family: Lato, sans-serif;
+    /*font-family: Lato, sans-serif;*/
     color: #4d4943;
     font-size: 17px; /* Приближение из-за подстановки шрифтов */
     font-weight: 400;
@@ -208,7 +210,7 @@
 }
 
 .check-what-title {
-    font-family: Montserrat, sans-serif;
+    /*font-family: Montserrat, sans-serif;*/
     color: #ffffff;
     font-size: 22px; /* Приближение из-за подстановки шрифтов */
     font-weight: 700;
@@ -217,7 +219,7 @@
 }
 
 .under-check-what-title {
-    font-family: OpenSans, sans-serif;
+    /*font-family: OpenSans, sans-serif;*/
     color: #ffffff;
     font-size: 18px; /* Приближение из-за подстановки шрифтов */
     font-weight: 400;
@@ -234,7 +236,7 @@
 
 .some-times-title {
     padding-top: 154px;
-    font-family: Montserrat, sans-serif;
+    /*font-family: Montserrat, sans-serif;*/
     color: #333333;
     font-size: 22px; /* Приближение из-за подстановки шрифтов */
     font-weight: 700;
@@ -244,11 +246,15 @@
 
 .under-some-times-title {
     padding-top: 35px;
-    font-family: Lato, sans-serif;
+    /*font-family: Lato, sans-serif;*/
     color: #4d4943;
     font-size: 17px; /* Приближение из-за подстановки шрифтов */
     font-weight: 400;
     line-height: 24px; /* Приближение из-за подстановки шрифтов */
     text-align: center;
     margin-bottom: 179px;
+}
+
+.yellow-text {
+    color: #f1ad1d;
 }
