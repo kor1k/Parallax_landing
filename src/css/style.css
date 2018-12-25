@@ -16,24 +16,20 @@
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    /*background-repeat: no-repeat;*/
-    /*background-attachment: fixed;*/
-    /*background-size: cover;*/
 }
 
 .sertiz-title {
     padding-top: 530px;
     padding-left: 90px;
-    /*font-family: Montserrat, sans-serif;*/
     color: #ffffff;
-    font-size: 48px; /* Приближение из-за подстановки шрифтов */
+    font-size: 48px;
     font-weight: 700;
     text-align: left;
 }
 
 .sertiz-under-title {
     padding-left: 90px;
-    /*font-family: Lato, sans-serif;*/
+
     color: #ffffff;
     font-size: 18px; /* Приближение из-за подстановки шрифтов */
     font-weight: 400;
