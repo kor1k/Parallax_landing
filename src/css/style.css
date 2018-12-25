@@ -70,7 +70,7 @@
     background-color: rgba(0, 0, 0, 0.4);
     width: 831px;
     height: 129px;
-    /*font-family: Montserrat, sans-serif;*/
+
     color: #ffffff;
     font-size: 54px; /* Приближение из-за подстановки шрифтов */
     font-weight: 700;
@@ -281,15 +281,11 @@
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
-        /*background-repeat: no-repeat;*/
-        /*background-attachment: fixed;*/
-        /*background-size: cover;*/
     }
 
     .sertiz-title {
         padding-top: 530px;
         padding-left: 90px;
-        /*font-family: Montserrat, sans-serif;*/
         color: #ffffff;
         font-size: 48px; /* Приближение из-за подстановки шрифтов */
         font-weight: 700;
