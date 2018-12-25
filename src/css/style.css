@@ -265,3 +265,274 @@
 .yellow-text {
     color: #f1ad1d;
 }
+
+/*/////////////////////////////////////////////////////*//*/////////////////////////////////////////////////////*//*/////////////////////////////////////////////////////*/
+
+@media screen and (max-width: 414px) {
+    * {
+        background-attachment: scroll;
+    }
+
+    .container1 {
+        width: 768px;
+        margin: 0 auto;
+    }
+
+    .nav-bar-top {
+        background-image: url("../images/nav-top-bg.png");
+        height: 100vh;
+        background-attachment: fixed;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        /*background-repeat: no-repeat;*/
+        /*background-attachment: fixed;*/
+        /*background-size: cover;*/
+    }
+
+    .sertiz-title {
+        padding-top: 530px;
+        padding-left: 90px;
+        /*font-family: Montserrat, sans-serif;*/
+        color: #ffffff;
+        font-size: 48px; /* Приближение из-за подстановки шрифтов */
+        font-weight: 700;
+        text-align: left;
+    }
+
+    .sertiz-under-title {
+        padding-left: 90px;
+        /*font-family: Lato, sans-serif;*/
+        color: #ffffff;
+        font-size: 18px; /* Приближение из-за подстановки шрифтов */
+        font-weight: 400;
+        text-align: left;
+    }
+
+    .we-block-all-items {
+        padding-top: 28px;
+        display: flex;
+        justify-content: flex-start;
+        align-items: center;
+    }
+
+    .we-block {
+        margin-left: 90px;
+        /*margin-top: 28px;*/
+        background-color: white;
+        width: 152px;
+        height: 129px;
+        /*font-family: Montserrat, sans-serif;*/
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        color: #f1ad1d;
+        font-size: 54px; /* Приближение из-за подстановки шрифтов */
+        font-weight: 700;
+        text-align: left;
+    }
+
+    .make-smart {
+        display: flex;
+        justify-content: left;
+        padding-left: 25px;
+        align-items: center;
+        border-style: solid;
+        border-width: 1px;
+        border-color: #ffffff;
+        background-color: rgba(0, 0, 0, 0.4);
+        width: 831px;
+        height: 129px;
+        /*font-family: Montserrat, sans-serif;*/
+        color: #ffffff;
+        font-size: 54px; /* Приближение из-за подстановки шрифтов */
+        font-weight: 700;
+        text-align: left;
+    }
+
+    .what-they-said {
+        padding-top: 111px;
+        /*font-family: Montserrat, sans-serif;*/
+        color: #333333;
+        font-size: 22px; /* Приближение из-за подстановки шрифтов */
+        font-weight: 700;
+        line-height: 18px; /* Приближение из-за подстановки шрифтов */
+        text-align: center;
+    }
+
+    .what-they-said-under {
+        padding-top: 35px;
+        /*display: flex;*/
+        /*justify-content: center;*/
+        /*align-items: center;*/
+        /*font-family: Lato, sans-serif;*/
+        color: #4d4943;
+        font-size: 17px; /* Приближение из-за подстановки шрифтов */
+        font-weight: 400;
+        line-height: 24px; /* Приближение из-за подстановки шрифтов */
+        text-align: center;
+    }
+
+    .palka-ebalka {
+        margin-top: 52px;
+        margin-bottom: 100px;
+        background-color: #f1ad1d;
+        width: 60px;
+        height: 3px;
+    }
+
+    .speedometr-img {
+        background-image: url("../images/speed-bg.png");
+        height: 400px;
+        background-attachment: fixed;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;;
+    }
+
+    .we-change-title {
+        padding-top: 150px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        /*font-family: Montserrat, sans-serif;*/
+        color: #ffffff;
+        font-size: 22px; /* Приближение из-за подстановки шрифтов */
+        font-weight: 700;
+        text-align: center;
+    }
+
+    .the-secrets {
+        padding-top: 136px;
+        padding-bottom: 35px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        /*font-family: Montserrat, sans-serif;*/
+        color: #333333;
+        font-size: 22px; /* Приближение из-за подстановки шрифтов */
+        font-weight: 700;
+        line-height: 18px; /* Приближение из-за подстановки шрифтов */
+        text-align: center;
+    }
+
+    .under-the-secrets {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        /*font-family: Lato, sans-serif;*/
+        color: #4d4943;
+        font-size: 17px; /* Приближение из-за подстановки шрифтов */
+        font-weight: 400;
+        line-height: 24px; /* Приближение из-за подстановки шрифтов */
+        text-align: center;
+    }
+
+    .forest-img {
+        background-image: url("../images/forest-bg.png");
+        height: 550px;
+        background-attachment: fixed;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+    .we-featured {
+        padding-top: 175px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        /*font-family: Montserrat, sans-serif;*/
+        color: #ffffff;
+        font-size: 22px; /* Приближение из-за подстановки шрифтов */
+        font-weight: 700;
+        text-align: center;
+    }
+
+    .logos-in-forest {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding-bottom: 100px;
+    }
+
+    .they-trust {
+        padding-top: 157px;
+        /*font-family: Montserrat, sans-serif;*/
+        color: #333333;
+        font-size: 22px; /* Приближение из-за подстановки шрифтов */
+        font-weight: 700;
+        line-height: 18px; /* Приближение из-за подстановки шрифтов */
+        text-align: center;
+    }
+
+    .under-they-trust {
+        padding-top: 35px;
+        /*font-family: Lato, sans-serif;*/
+        color: #4d4943;
+        font-size: 17px; /* Приближение из-за подстановки шрифтов */
+        font-weight: 400;
+        line-height: 24px; /* Приближение из-за подстановки шрифтов */
+        text-align: center;
+    }
+
+    .lake-img {
+        background-image: url("../images/lake-bg-img.png");
+        height: 475px;
+        background-attachment: fixed;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;;
+    }
+
+    .check-what-title {
+        /*font-family: Montserrat, sans-serif;*/
+        color: #ffffff;
+        font-size: 22px; /* Приближение из-за подстановки шрифтов */
+        font-weight: 700;
+        text-align: center;
+        padding-top: 130px;
+    }
+
+    .under-check-what-title {
+        /*font-family: OpenSans, sans-serif;*/
+        color: #ffffff;
+        font-size: 18px; /* Приближение из-за подстановки шрифтов */
+        font-weight: 400;
+        line-height: 30px; /* Приближение из-за подстановки шрифтов */
+        text-align: center;
+    }
+
+    .vtoraya-palka-ebalka {
+        background-color: #ffffff;
+        width: 281px;
+        height: 3px;
+        margin-top: 44px;
+    }
+
+    .some-times-title {
+        padding-top: 154px;
+        /*font-family: Montserrat, sans-serif;*/
+        color: #333333;
+        font-size: 22px; /* Приближение из-за подстановки шрифтов */
+        font-weight: 700;
+        line-height: 18px; /* Приближение из-за подстановки шрифтов */
+        text-align: center;
+    }
+
+    .under-some-times-title {
+        padding-top: 35px;
+        /*font-family: Lato, sans-serif;*/
+        color: #4d4943;
+        font-size: 17px; /* Приближение из-за подстановки шрифтов */
+        font-weight: 400;
+        line-height: 24px; /* Приближение из-за подстановки шрифтов */
+        text-align: center;
+        margin-bottom: 179px;
+    }
+
+    .yellow-text {
+        color: #f1ad1d;
+    }
+
+}
